@@ -3,7 +3,7 @@ Welcome to the Open Emission Factors Database (OEFDB) on github. This is the hom
 
 Our ambition is for this to be the world's most granular, accurate and up-to-date emission factor database, for all to use in their efforts to drive action on the climate crisis.
 
-Along with the database, Climatiq also provides a free REST API to allow anyone to query the data as needed. It is cached globally to provide extremely low latency and processing time (not to mention emissions!)
+Along with the database, Climatiq also provides a free REST API to allow anyone to query the data as needed. It will update weekly to reflect the contents of the OEFDB and is cached globally to provide extremely low latency and processing time (not to mention emissions!)
 
 For more detail on the API see here: https://docs.climatiq.io/ (also currently the best place to get more detail about the OEFDB).
  
