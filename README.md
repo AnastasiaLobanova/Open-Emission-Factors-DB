@@ -8,3 +8,32 @@ Along with the database, Climatiq also provides a free REST API to allow anyone 
 For more detail on the API see here: https://docs.climatiq.io/ (also currently the best place to get more detail about the OEFDB).
  
 We will be providing some best practice guidelines to using GitHub for data management in the near future - in the meantime if you have any questions, please get in touch on github and we will gladly help!
+
+## How to contribute
+
+Thank you for thinking about contributing to the Open Emission Factors Database! To contribute by creating or updating factors in the database, follow these steps:
+
+1. Download a copy of this repository.
+1. Open `OpenEmissionFactorsDB.csv` file with a CSV editor. You can work with any editor like Microsoft Office or Apple Numbers but keep an eye on the characters encoding and make sure that they are all displayed well.
+
+![Download button](./img/download.png)
+
+1. Make the changes to the file. Try to keep them as short as possible and do not try to add new factors along with other factors updates. Try to do both in separate requests.
+1. Save or export the file as a `.csv` file separated by commas.
+1. Open the `csv` file with a text editor (Right-click on the file > Open With... > TextEdit in Mac or Notepad in Windows).
+1. Copy the content of the file.
+1. Back to GitHub, click on `OpenEmissionFactorsDB.csv` file and then in the edit icon.
+1. Paste the content in the text area.
+
+![Edit icon](./img/edit.png)
+
+Now, you need to create a Pull Request so the changes can be reviewed before going live:
+
+1. Commit the changes by completing the form. Give it a proper title and specify if you are adding or updating an existing factor and the category it belongs to. Additionally, insert a description with any extra data to speed up the revision process and give the branch a name that can be identified easily
+   
+![Commiting changes](./img/commit.png)
+
+1. Immediately after, you will be redirected to another screen to create a new Pull Request. If the title and descriptions are fine for you, click on `Create Pull Request` and wait for approval or changes requests.
+
+![Pull Request creation](./img/pull-request.png)
+
