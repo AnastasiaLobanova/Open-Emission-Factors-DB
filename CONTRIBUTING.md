@@ -1,8 +1,18 @@
-## Contributing guide
+# Contributing guide
 
 It's straightforward to contribute to the Open Emission Factors Database, and by doing so you are adding value to a crucial resource for the measurement of emissions - thank you! 
 
 This guide aims to be a simple guide for users with or without Git experience. To contribute by creating or updating factors in the database for review by the OEFDB data stewards, follow these steps:
+
+#### Table Of Contents
+
+[How to add or change values to the Emission Factors CSV file](#how-to-add-or-change-values-to-the-emission-factors-csv-file)
+   * [1. Edit the file](#1-edit-the-file) 
+   * [2. Create a Pull Request](#2-create-a-pull-request)
+
+[Git Commit Messages](#git-commit-messages)
+
+## How to add or change values to the Emission Factors CSV file
 
 ### 1. Edit the file
 1. Download a copy of this repository.
@@ -22,7 +32,7 @@ This guide aims to be a simple guide for users with or without Git experience. T
 
 Now that you have made your changes or additions, you need to create a Pull Request so the changes can be reviewed before going live:
 
-1. Commit the changes by completing the form. Give it a proper title and specify if you are adding or updating an existing factor/factors and the category it/they belong to. Additionally, fill in the details of the template provided to make it clear why these changes are necessary or beneficial. This will speed up the revision process and make clear the reasons for the contribution.
+1. Commit the changes by completing the form. [Give it a proper title and specify if you are adding or updating an existing factor/factors](#git-commit-messages) and the category it/they belong to. Additionally, fill in the details of the template provided to make it clear why these changes are necessary or beneficial. This will speed up the revision process and make clear the reasons for the contribution.
 
 ![Commiting changes](./img/commit.png)
 
@@ -30,3 +40,10 @@ Now that you have made your changes or additions, you need to create a Pull Requ
 
 ![Pull Request creation](./img/pull-request.png)
 
+## Git Commit Messages
+
+In order to keep a good Git history, take the following guidelines about commit messages into account:
+
+- Use the imperative mood ("Add new factor" not "Added new factor").
+- Limit the first line to 72 characters or less.
+- Reference issues and pull requests liberally after the commit title. If you need to link to another Pull Request, do it after the commit title.
