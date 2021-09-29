@@ -2,11 +2,11 @@
 
 It's straightforward to contribute to the Open Emission Factors Database, and by doing so you are adding value to a crucial resource for the measurement of emissions - thank you! 
 
-This guide pretends to be a simple guide for users with or without Git experience. To contribute by creating or updating factors in the database for review by the OEFDB data stewards, follow these steps:
+This guide aims to be a simple guide for users with or without Git experience. To contribute by creating or updating factors in the database for review by the OEFDB data stewards, follow these steps:
 
 ### 1. Edit the file
 1. Download a copy of this repository.
-2. Open `OpenEmissionFactorsDB.csv` file with a CSV editor. You can work with any editor like Microsoft Office, Google Spreadsheets or Apple Numbers but keep an eye on the character encoding and make sure that they are all displayed well once the file is exported. The editor must be capable of editing documents with at least UTF-8 encoding and should be exported as such.
+2. Open `OpenEmissionFactorsDB.csv` file with a CSV editor. You can work with any editor like Microsoft Excel, Google Sheets or Apple Numbers but keep an eye on the character encoding and make sure that they are all displayed well once the file is exported. The editor must be capable of editing documents with at least UTF-8 encoding and should be exported as such.
 
 ![Download button](./img/download.png)
 
@@ -20,9 +20,9 @@ This guide pretends to be a simple guide for users with or without Git experienc
 
 ### 2. Create a Pull Request
 
-Now that you made your changes or additions, you need to create a Pull Request so the changes can be reviewed before going live:
+Now that you have made your changes or additions, you need to create a Pull Request so the changes can be reviewed before going live:
 
-1. Commit the changes by completing the form. Give it a proper title and specify if you are adding or updating an existing factor/factors and the category it/they belong to. Additionally, insert a description of the changes made under a bolded heading **What** and provide a brief description of why these changes are necessary or beneficial under the heading **Why**.This will speed up the revision process and make clear the reasons for the contribution.
+1. Commit the changes by completing the form. Give it a proper title and specify if you are adding or updating an existing factor/factors and the category it/they belong to. Additionally, fill in the details of the template provided to make it clear why these changes are necessary or beneficial. This will speed up the revision process and make clear the reasons for the contribution.
 
 ![Commiting changes](./img/commit.png)
 

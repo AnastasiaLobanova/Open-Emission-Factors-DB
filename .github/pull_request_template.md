@@ -3,15 +3,15 @@
 - [ ] New
 - [ ] Update
 
-**What's the factor category or categories?**
+**What category or categories does it affect?**
 
 _Add your answer here_
 
 **What?**
 
-_Description of the changes_
+_Please describe the changes or additions_
 
 **Why?**
 
-_Why these changes are necessary or beneficial?_
+_Please give a brief explanation of why these changes are valuable or necessary_
 
