@@ -2,17 +2,17 @@
 
 It's straightforward to contribute to the Open Emission Factors Database, and by doing so you are adding value to a crucial resource for the measurement of emissions - thank you! 
 
-This guide aims to be a simple guide for users with or without Git experience. To contribute by creating or updating factors in the database for review by the OEFDB data stewards, follow these steps:
+This document aims to be a simple guide for users with or without Git experience. To contribute by creating or updating factors in the database for review by the OEFDB data stewards, follow these steps:
 
 #### Table Of Contents
 
-[How to add or change values to the Emission Factors CSV file](#how-to-add-or-change-values-to-the-emission-factors-csv-file)
+[How to add or change values in the Emission Factors CSV file](#how-to-add-or-change-values-in-the-emission-factors-csv-file)
    * [1. Edit the file](#1-edit-the-file) 
    * [2. Create a Pull Request](#2-create-a-pull-request)
 
 [Git Commit Messages](#git-commit-messages)
 
-## How to add or change values to the Emission Factors CSV file
+## How to add or change values in the Emission Factors CSV file
 
 ### 1. Edit the file
 1. Download a copy of this repository.
