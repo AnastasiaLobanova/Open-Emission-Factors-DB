@@ -8,3 +8,7 @@ Along with the database, Climatiq also provides a free REST API to allow anyone 
 For more detail on the API see here: https://docs.climatiq.io/ (also currently the best place to get more detail about the OEFDB).
  
 We will be providing some best practice guidelines to using GitHub for data management in the near future - in the meantime if you have any questions, please get in touch on github and we will gladly help!
+
+## Contributing
+
+See [the contribution guide](./CONTRIBUTING.md) for more detailed instructions.
