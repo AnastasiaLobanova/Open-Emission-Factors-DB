@@ -40,7 +40,9 @@ Now that you have made your changes or additions, you need to create a Pull Requ
 
 ![Pull Request creation](./img/pull-request.png)
 
-**Pull Request Checks**: Whenever a new Pull Request is created or altered, GitHub will automatically check if the CSV is valid or not. Make sure that your Pull Request does not throw any errors during the validation. These checks results will be displayed in the Pull Request screen:
+## Pull Request Checks
+
+Whenever a new Pull Request is created or altered, GitHub will automatically check if the CSV is valid or not. Make sure that your Pull Request does not throw any errors during the validation. These checks results will be displayed in the Pull Request screen:
 
 If the file is fine, you will see this section in your Pull Request details:
 ![Pull Request creation](./img/validation-ok.png)
