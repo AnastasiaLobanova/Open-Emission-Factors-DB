@@ -21,7 +21,7 @@ This document aims to be a simple guide for users with or without Git experience
 ![Download button](./img/download.png)
 
 3. Make the changes to the file. Avoid adding new factors along with other factors updates - updates and additions should be submitted in separate requests.
-4. Save or export the file as a `.csv` file separated by commas.
+4. Save or export the file as a `.csv` file separated by commas. Make sure that you enclose strings containing commas within double quotes. (E.g. `"BEIS does not make a distinction between short,medium or long-haul flights"`) 
 5. Open the `csv` file with a text editor (Right-click on the file > Open With... > TextEdit in Mac or Notepad in Windows).
 6. Copy the content of the file.
 7. Back to GitHub, click on `OpenEmissionFactorsDB.csv` file and then on the edit icon.
